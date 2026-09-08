@@ -25,6 +25,7 @@ Completed a **BSc in Computer Science** at AI Professional College and Currently
 - Python
 - PHP
 - Node JS
+- C/C++
 
 ### Data & Analytics
 - Database Analysis
